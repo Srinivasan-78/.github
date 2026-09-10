@@ -1,0 +1,73 @@
+{
+  "schema": "authormark/manifest/1",
+  "algo": "hmac",
+  "author": "Srinivasan Vijayaraghavan",
+  "email": "srinivasan.shyam2000@gmail.com",
+  "github": "https://github.com/Srinivasan-78",
+  "sealedAt": "2026-09-10T15:42:37.492Z",
+  "fileCount": 12,
+  "digest": "66abbe3b1fc9ea6d54963548902deb48a7c6d5eda3884f5bad3edcfd4a8c17d8",
+  "proof": "78133d082f5995864cd2e6d330028d4f7918dbd18fa0fee751b0708321362843",
+  "files": [
+    {
+      "path": ".github/ISSUE_TEMPLATE/bug_report.yml",
+      "sha256": "685ac09487c519f1199fbf76efe73a6465f2e021d8fda21e3c482c759d2727c3",
+      "bytes": 1529
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/config.yml",
+      "sha256": "ab071bd13df4790e89883c01ad53d183e3e5ac60499629369d11c1e5e292350a",
+      "bytes": 1019
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/feature_request.yml",
+      "sha256": "0f95d8a15361f754d5684c50dde01ff41b79a6b8bd1d37a182d3d657b828f5c4",
+      "bytes": 1259
+    },
+    {
+      "path": ".github/PULL_REQUEST_TEMPLATE.md",
+      "sha256": "87fdcfed333bf7735f67610117399c908c5f185176c64e1d0cf0ea31ca3233b9",
+      "bytes": 1314
+    },
+    {
+      "path": ".github/workflows/authormark.yml",
+      "sha256": "576c40042a352800a9f8138b33d9a469c764aaf0587bb671d65f6ef7c125b904",
+      "bytes": 1707
+    },
+    {
+      "path": "AGENTS.md",
+      "sha256": "64332bb2944c3207d2b93702c90c21cf37225024e01d6eac7c92b9431eaf6732",
+      "bytes": 1565
+    },
+    {
+      "path": "CLAUDE.md",
+      "sha256": "a4f80ec424ce2382e519318c7cdbc38276dc8575a452e566c67f21c1eb0ca882",
+      "bytes": 822
+    },
+    {
+      "path": "CODE_OF_CONDUCT.md",
+      "sha256": "9ca09a7209c4c07cd946cca60eacfb6395e38235449d700150a7d3b1eaa0795c",
+      "bytes": 6093
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "sha256": "db65d40eb0ef458061097927e795153b7d05b12076568bc0383d522b25f64ca3",
+      "bytes": 1927
+    },
+    {
+      "path": "README.md",
+      "sha256": "7f2f51b76369e68950393301d3ffbbd99594d53dc67e0f940f9dea8d4e603ffe",
+      "bytes": 1613
+    },
+    {
+      "path": "SECURITY.md",
+      "sha256": "f1bc87333722caf40760d39d15dab71461720ed19d1f374165b69da48e2c97f9",
+      "bytes": 1389
+    },
+    {
+      "path": "SUPPORT.md",
+      "sha256": "05d166f7c3d3d99e5b183c7cb97ca74ee5e75c8229aaa6326cdcb1a5308ca4ed",
+      "bytes": 1164
+    }
+  ]
+}
